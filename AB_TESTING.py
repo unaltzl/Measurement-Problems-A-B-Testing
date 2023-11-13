@@ -162,3 +162,11 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 # HO reddedilemez. Kontrol ve test grubu satın alma ortalamaları arasında istatistiksel olarak anlamlı farklılık yoktur.
 
 
+##############################################################
+# GÖREV 4 : Sonuçların Analizi
+##############################################################
+
+# Adım 1: Hangi testi kullandınız, sebeplerini belirtiniz.
+
+
+# Adım 2: Elde ettiğiniz test sonuçlarına göre müşteriye tavsiyede bulununuz.
